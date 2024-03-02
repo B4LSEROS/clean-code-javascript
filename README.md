@@ -1849,11 +1849,11 @@ rastreadorDeInventario.pedirArticulos();
 ## **Testing**
 
 El testing es más importante que la entrega. Si no tienes test o tienes muchos
-que no soy de gran ayuda, cada vez que quieras entregar valor no estarás seguro
-de ue eso funciona debidamente y que nada falla. Puedes decidir con el equipo
-cuál es el porcentaje al que queréis ceñiros pero, la única manera de tener
-confianza total de que nada falla, es teniendo 100% de covertura de test. Para
-esto, ncesitarás tener una gran herramienta para poder testear pero también
+que no son de gran ayuda, cada vez que quieras entregar valor, no estarás seguro
+de que eso funciona debidamente y que nada falla. Puedes decidir con el equipo
+cuál es el porcentaje al que queréis ceñiros, pero la única manera de tener
+confianza total de que nada falla es teniendo 100% de covertura de test. Para
+esto, necesitarás tener una gran herramienta para poder testear pero también
 una que te calcule adecuadamente [el porcentaje cubierto](http://gotwarlost.github.io/istanbul/).
 
 No hay excusas para no escribir tests. Hay
